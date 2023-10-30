@@ -1,0 +1,12 @@
+.ant-input-affix-wrapper {
+    width: 100%;
+}
+
+.autocomplete-input {
+    height: auto;
+    width: 100%;
+}
+
+.hide-icon {
+    visibility: hidden;
+}
